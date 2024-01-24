@@ -6,8 +6,10 @@ Install
 
 ###
 1.Download ClashforWindows-0.19.25.tar.gz
-[ubuntu clash source](https://archive.org/download/clash_for_windows_pkg)
 
+[archive.org source](https://archive.org/download/clash_for_windows_pkg)
+
+[github source](https://github.com/lantongxue/clash_for_windows_pkg/releases/download/0.20.39/Clash.for.Windows-0.20.39-arm64-linux.tar.gz)
 2.
 ```
 cd Downloads

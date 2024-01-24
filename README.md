@@ -1,15 +1,16 @@
 # clash_for_windows_pkg
 A Windows/macOS/Linux GUI based on Clash
 
-##
-Install
+## Install
 
-###
-1.Download ClashforWindows-0.19.25.tar.gz
+### 1.Download ClashforWindows-0.19.25.tar.gz
 
 [archive.org source](https://archive.org/download/clash_for_windows_pkg)
 
 [github source](https://github.com/lantongxue/clash_for_windows_pkg/releases/download/0.20.39/Clash.for.Windows-0.20.39-arm64-linux.tar.gz)
+
+install chinese first
+
 2.
 ```
 cd Downloads
